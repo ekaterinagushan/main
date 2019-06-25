@@ -182,13 +182,6 @@ main {
 
 }
 
-
-.poster1 img {
-  width: 300px;
-  margin-left: 45px;
-  box-shadow: 5px 5px 50px rgba(0,0,0,0.5);
-}
-
 .right-ne {
   padding-left: 20px;
   background-color: white;
@@ -274,8 +267,6 @@ main {
   margin-left: -700px;
 }
 
-
-
 .portfolio {
   position: absolute;
   font-size: 30px;
@@ -317,22 +308,20 @@ footer .art {
   }
 
   .right h1 {
-    width: 236px;
-    margin-left: -562px;
+    width: 426px;
+    margin-left: -226px;
+  }
+
+  .right .art55 {
+    width: 820px;
+    height: 778px;
   }
 
   .right p {
-    left: 61px;
+    left: 145px;
     font-size: 23px;
-    width: 423px;
+    width: 823px;
     line-height: 36px;
-  }
-
-  .right img {
-    width: 359px;
-    height: 459px;
-    margin-left: 13px;
-    margin-top: 71px;
   }
 
   .right-n  {
@@ -348,19 +337,30 @@ footer .art {
   .right-n p {
     font-size: 23px;
     top: 910px;
-    left: 62px;
+    left: 110px;
     width: 900px;
     line-height: 45px;
   }
 
-  .poster1 {
-    margin-left: -15px;
-    height: 500px;
+  .why {
+    margin-top: 51px;
+    height: 650px;
   }
 
 
-  .poster1 img {
-    width: 200px;
+  .why h1 {
+    width: 795px;
+    top: 1187px;
+    left: -180px;
+    line-height: 5px;
+  }
+
+  .why p {
+    font-size: 20px;
+    width: 782px;
+    top: 1300px;
+    left: 113px;
+    line-height: 35px;
   }
 
 
@@ -374,20 +374,25 @@ footer .art {
   }
 
   .right-ne p {
-    left: 61px;
+    left: 117px;
     font-size: 23px;
-    width: 900px;
-    margin-top: -349px;
+    width: 400px;
+    margin-top: -293px;
     line-height: 36px;
   }
 
-  .poster2 {
-    height: 400px;
+  .right-ne img{
+    width: 400px;
+    height: 500px;
+    margin-top: 83px;
+    margin-left: 49px;
   }
 
-  .poster2 img {
-    width: 275px;
+  .left {
+    margin-top: 416px;
+    height: 1000px;
   }
+
 
   .left h1 {
     width: 362px;
@@ -395,21 +400,24 @@ footer .art {
   }
 
   .left p {
-    left: 61px;
     font-size: 23px;
-    width: 900px;
-    margin-top: -519px;
-    line-height: 36px;
+    line-height: 35px;
+    left: 550px;
+    width: 400px;
+    margin-top: -406px;
   }
 
-  .poster3 {
-    height: 500px;
-  }
 
-  .poster3 img {
-    width: 190px;
-    margin-top: -20px;
-  }
+    .left img {
+      margin-top: 200px;
+      margin-left: -900px;
+      width: 400px;
+      height: 600px;
+    }
+
+
+
+
 
 
   footer p {
@@ -476,16 +484,6 @@ footer .art {
       line-height: 36px;
     }
 
-    .poster1 {
-      margin-left: 10px;
-      height: 450px;
-    }
-
-    .poster1 img {
-      width: 160px;
-      margin-left: 10px;
-      margin-right: 10px;
-    }
 
     .right-ne {
       margin-top: -160px;
@@ -505,14 +503,6 @@ footer .art {
       line-height: 36px;
     }
 
-    .poster2 {
-      height: 250px;
-    }
-
-    .poster2 img {
-      width: 189px;
-    }
-
     .left h1 {
       font-size: 35px;
       width: 265px;
@@ -526,21 +516,6 @@ footer .art {
       width: 650px;
       line-height: 36px;
     }
-
-    .poster3 {
-      height: 340px;
-      margin-left: 16px;
-    }
-
-    .poster3 img {
-      width: 156px;
-      margin-left: 10px;
-      margin-right: 10px;
-      margin-top: -20px;
-    }
-
-
-
 
     .portfolio {
       font-size: 20px;
