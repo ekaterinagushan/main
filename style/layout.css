@@ -416,10 +416,6 @@ footer .art {
     }
 
 
-
-
-
-
   footer p {
     font-size: 10px;
   }
@@ -449,11 +445,11 @@ footer .art {
     .right h1 {
       font-size: 35px;
       margin-top: 20px;
-      margin-left: -564px;
+      margin-left: -371px;
     }
 
     .right p {
-      width: 350px;
+      width: 523px;
       margin-top: -57px;
       line-height: 36px;
     }
@@ -472,8 +468,9 @@ footer .art {
 
     .right-n h1 {
       font-size: 35px;
-      margin-left: -545px;;
+      margin-left: -587px;;
       width: 265px;
+      color: black;
     }
 
     .right-n p {
@@ -484,37 +481,71 @@ footer .art {
       line-height: 36px;
     }
 
+    .why h1 {
+      top: 975px;
+      left: -282px;
+      font-size: 35px;
+    }
+
+    .why p {
+      font-size: 18px;
+      width: 600px;
+      top: 1063px;
+      left: 75px;
+      line-height: 30px;
+    }
+
 
     .right-ne {
       margin-top: -160px;
+      height: 700px;
     }
 
     .right-ne h1 {
       font-size: 35px;
       width: 265px;
-      margin-left: -545px;;
+      margin-left: -545px;
+      line-height: 35px;
     }
 
     .right-ne p {
       font-size: 23px;
-      top: 1710px;
-      left: 62px;
-      width: 650px;
-      line-height: 36px;
+      top: 1930px;
+      left: 101px;
+      width: 556px;
+    }
+
+    .right-ne img {
+      width: 400px;
+      height: 500px;
+      margin-top: 507px;
+      margin-left: -700px;
+    }
+
+    .left {
+      height: 1200px;
     }
 
     .left h1 {
       font-size: 35px;
       width: 265px;
-      margin-left: -545px;;
+      margin-left: -340px;
+
     }
 
     .left p {
       font-size: 23px;
-      top: 2580px;
+      top: 3790px;
       left: 62px;
       width: 650px;
       line-height: 36px;
+    }
+
+    .left img {
+      margin-top: 169px;
+      margin-left: -689px;
+      width: 400px;
+      height: 600px;
     }
 
     .portfolio {
